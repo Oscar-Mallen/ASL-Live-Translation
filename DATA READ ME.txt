@@ -1,0 +1,5 @@
+Due to the limitationsof file size uploads I have added the data for the model in a google drive link below 
+
+https://drive.google.com/file/d/1H_Wa0eMdwnSpTgr1dBXuPKBrSBBO8kX7/view?usp=sharing
+
+please donwload and ensure the correct path is set for hand_detection.py and asl_translation.py in order to run.
